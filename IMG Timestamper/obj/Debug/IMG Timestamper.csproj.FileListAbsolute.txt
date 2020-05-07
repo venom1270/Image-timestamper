@@ -1,0 +1,10 @@
+C:\Users\zigsi\source\repos\IMG Timestamper\IMG Timestamper\bin\Debug\IMG Timestamper.exe.config
+C:\Users\zigsi\source\repos\IMG Timestamper\IMG Timestamper\bin\Debug\IMG Timestamper.exe
+C:\Users\zigsi\source\repos\IMG Timestamper\IMG Timestamper\bin\Debug\IMG Timestamper.pdb
+C:\Users\zigsi\source\repos\IMG Timestamper\IMG Timestamper\obj\Debug\IMG Timestamper.csprojAssemblyReference.cache
+C:\Users\zigsi\source\repos\IMG Timestamper\IMG Timestamper\obj\Debug\IMG_Timestamper.Form1.resources
+C:\Users\zigsi\source\repos\IMG Timestamper\IMG Timestamper\obj\Debug\IMG_Timestamper.Properties.Resources.resources
+C:\Users\zigsi\source\repos\IMG Timestamper\IMG Timestamper\obj\Debug\IMG Timestamper.csproj.GenerateResource.cache
+C:\Users\zigsi\source\repos\IMG Timestamper\IMG Timestamper\obj\Debug\IMG Timestamper.csproj.CoreCompileInputs.cache
+C:\Users\zigsi\source\repos\IMG Timestamper\IMG Timestamper\obj\Debug\IMG Timestamper.exe
+C:\Users\zigsi\source\repos\IMG Timestamper\IMG Timestamper\obj\Debug\IMG Timestamper.pdb
