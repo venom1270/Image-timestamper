@@ -80,8 +80,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="images\IMG_20200222_120215.jpg" />
-    <Content Include="images\Panda-2.jpg" />
+    <Content Include="images\IMG_20180502_191159.jpg" />
+    <Content Include="images\IMG_20200102_123456.jpg" />
+    <Content Include="images\Metadata example.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

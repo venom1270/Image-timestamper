@@ -7,3 +7,4 @@ C:\Users\zigsi\source\repos\IMG Timestamper\IMG Timestamper\obj\Release\IMG Time
 C:\Users\zigsi\source\repos\IMG Timestamper\IMG Timestamper\obj\Release\IMG Timestamper.csproj.CoreCompileInputs.cache
 C:\Users\zigsi\source\repos\IMG Timestamper\IMG Timestamper\obj\Release\IMG Timestamper.exe
 C:\Users\zigsi\source\repos\IMG Timestamper\IMG Timestamper\obj\Release\IMG Timestamper.pdb
+C:\Users\zigsi\source\repos\IMG Timestamper\IMG Timestamper\obj\Release\IMG Timestamper.csprojAssemblyReference.cache

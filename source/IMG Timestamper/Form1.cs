@@ -81,8 +81,8 @@ namespace IMG_Timestamper
             int progress = 0;
 
             int fontScaled = 12000000;  //50em for 12M pixels (approx. 4000x3000)
-            int xScale = 4000; // for 4000px width = 700
-            int yScale = 3000; // for 3000px width = 100
+            int xScale = 3332; // for 3332px width = 700
+            int yScale = 2924; // for 2924px width = 100
 
             foreach (string imagePath in files)
             {
@@ -121,12 +121,16 @@ namespace IMG_Timestamper
                 {
                     xPos = b.Width - Math.Max(220, ((int)tbOffsetX.Value * (int)((float)image.Width / xScale)));
                     yPos = b.Height - Math.Max(30, ((int)tbOffsetY.Value * (int)((float)image.Height / yScale)));
+                    
                 }
                 else
                 {
                     xPos = b.Width - ((int)tbOffsetX.Value);
                     yPos = b.Height - ((int)tbOffsetY.Value);
                 }
+                Debug.WriteLine(filename);
+                Debug.WriteLine(xPos);
+                Debug.WriteLine(yPos);
 
                 // Draw
                 Brush brush = new SolidBrush(colorDialog1.Color);
